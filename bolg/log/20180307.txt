@@ -1,0 +1,326 @@
+-----------------------------------------------
+2018/03/07 14:20:51
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:20:51
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:20:51
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1order by art_id desc limit 0,2
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by art_id desc limit 0,2' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:21:33
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:21:33
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:21:33
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1order by art_id desc limit 0,2
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by art_id desc limit 0,2' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:21:47
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:21:47
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:21:47
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1order by art_id desc limit 0,2
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by art_id desc limit 0,2' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:21:51
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:21:51
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:21:51
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1order by art_id desc limit 0,2
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by art_id desc limit 0,2' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:22:46
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:22:46
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:22:46
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1order by art_id desc limit 0,2
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by art_id desc limit 0,2' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:23:20
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:23:20
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:23:20
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:24:01
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:24:01
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:24:01
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:24:21
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:24:21
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:24:21
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:24:26
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:24:26
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:24:26
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 order by art_id desc limit 2,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:27:47
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:27:47
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:27:47
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:27:50
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:27:50
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:27:51
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 order by art_id desc limit 2,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:39:50
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:39:50
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:39:50
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:39:57
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:39:57
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:39:57
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and cat.cat_id = 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:40:00
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:40:00
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:40:01
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and cat.cat_id = 1 order by art_id desc limit 2,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:40:06
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:40:07
+select count(*) from art
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:40:07
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and cat.cat_id = 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:40:56
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:40:56
+select count(*) from  where 1 and cat.cat_id = 1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1 and cat.cat_id = 1' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:40:56
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and cat.cat_id = 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:00
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:00
+select count(*) from  where 1 and cat.cat_id = 1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1 and cat.cat_id = 1' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:00
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and cat.cat_id = 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:03
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:03
+select count(*) from  where 1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:03
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:05
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:05
+select count(*) from  where 1 and cat.cat_id = 26
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1 and cat.cat_id = 26' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:05
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and cat.cat_id = 26 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:08
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:08
+select count(*) from  where 1 and cat.cat_id = 1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1 and cat.cat_id = 1' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:08
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and cat.cat_id = 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:11
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:11
+select count(*) from  where 1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/07 14:41:11
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 order by art_id desc limit 0,2
+-----------------------------------------------
+

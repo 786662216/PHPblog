@@ -1,0 +1,16 @@
+-----------------------------------------------
+2018/03/08 06:08:36
+select cat_id,catname from cat
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/08 06:08:36
+select count(*) from  where 1
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1
+-----------------------------------------------
+
+-----------------------------------------------
+2018/03/08 06:08:36
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 order by art_id desc limit 0,2
+-----------------------------------------------
+
